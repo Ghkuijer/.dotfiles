@@ -7,7 +7,6 @@ tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'caskroom/drivers'
 tap 'homebrew/bundle'
-tap 'spotify/public'
 
 
 ## Install ZSH
