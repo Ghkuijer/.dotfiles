@@ -43,8 +43,6 @@ brew 'openssl'
 brew 'wget'
 brew 'yarn'
 # brew 'nmap'
-brew 'docker'
-brew 'docker-compose'
 brew 'kubectl'
 
 ## Development
@@ -82,6 +80,7 @@ cask 'visual-studio'
 cask 'dotnet'
 cask 'dotnet-sdk'
 cask 'java'
+cask 'docker'
 
 cask 'spotify'
 
