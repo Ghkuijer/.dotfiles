@@ -81,6 +81,7 @@ cask 'dotnet'
 cask 'dotnet-sdk'
 cask 'java'
 cask 'docker'
+cask 'remote-desktop-connection'
 
 cask 'spotify'
 
