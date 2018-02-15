@@ -83,6 +83,7 @@ cask 'dotnet-sdk'
 cask 'java'
 cask 'docker'
 cask 'microsoft-remote-desktop-beta'
+cask 'postman'
 
 cask 'spotify'
 
