@@ -84,6 +84,7 @@ cask 'java'
 cask 'docker'
 cask 'microsoft-remote-desktop-beta'
 cask 'postman'
+cask 'macdown'
 
 cask 'spotify'
 
