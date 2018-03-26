@@ -44,6 +44,7 @@ brew 'wget'
 brew 'yarn'
 # brew 'nmap'
 brew 'kubectl'
+brew 'awscli'
 
 ## Development
 ## Apps
