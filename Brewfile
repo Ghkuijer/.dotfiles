@@ -44,7 +44,6 @@ brew 'wget'
 brew 'yarn'
 # brew 'nmap'
 brew 'kubectl'
-brew 'awscli'
 
 ## Development
 ## Apps
@@ -63,27 +62,28 @@ cask 'google-chrome'
 # cask 'keycastr'
 # cask 'little-snitch'
 # cask 'flux'
-cask 'onedrive'
+# cask 'onedrive'
 # cask 'quip'
 # cask 'sequel-pro'
 # cask 'micro-snitch'
 # cask 'textexpander'
 # cask 'rocket'
 # cask 'shuttle'
-cask 'slack'
+# cask 'slack'
 cask 'sourcetree'
-cask 'sublime-text'
+# cask 'sublime-text'
 cask 'visual-studio-code'
-cask 'visual-studio'
+# cask 'visual-studio'
 # cask 'virtualbox'
 # cask 'virtualbox-extension-pack'
 # cask 'mongodb-compass-beta'
 # cask 'softu2f'
-cask 'dotnet'
+brew 'azure-cli'
 cask 'dotnet-sdk'
-cask 'java'
+# cask 'java'
 cask 'docker'
-cask 'microsoft-remote-desktop-beta'
+brew 'docker-compose'
+# cask 'microsoft-remote-desktop-beta'
 cask 'postman'
 cask 'macdown'
 
@@ -110,7 +110,7 @@ cask 'provisionql'
 # mas 'Sketch', id: 402476602
 # mas 'Frank DeLoupe', id: 530458789
 # mas 'Marked 2', id: 890031187
-mas 'Xcode', id: 497799835
+# mas 'Xcode', id: 497799835
 # mas 'Pages', id: 409201541
 # mas 'Todoist', id: 585829637
 # mas 'Keynote', id: 409183694
